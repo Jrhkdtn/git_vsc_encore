@@ -6,4 +6,9 @@ members:
 - g
 - h
 - i
+<<<<<<< HEAD
 - ks
+=======
+
+coach : byebye
+>>>>>>> add-coach

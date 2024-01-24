@@ -1,9 +1,19 @@
+<<<<<<< HEAD
 team : Panthers
 
 manager : ronaldo
+=======
+team : Lions
+
+manager : kevin
+>>>>>>> add-coach
 
 members: 
 - l
 - n
 - m
+<<<<<<< HEAD
 - jj
+=======
+- dfdfd
+>>>>>>> add-coach
