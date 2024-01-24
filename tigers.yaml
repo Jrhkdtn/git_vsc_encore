@@ -1,7 +1,8 @@
 team : Tigers
 
-manager: encore
+manager: peterparker
 
 members:
-- peterparker
-- tonystark
+- a
+- b
+- c
